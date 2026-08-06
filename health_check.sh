@@ -43,6 +43,11 @@ systemctl --type=service --state=running | head -10
 
 echo ""
 
+echo "Report generated:"
+date
+
+echo ""
+
 echo "============================"
 echo "    CHECK COMPLETED"
 echo "============================"
