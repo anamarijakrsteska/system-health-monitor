@@ -17,17 +17,22 @@ Developed a Bash-based Linux system monitoring tool that displays system informa
 - Generates a health report with a timestamp
 
 ## Project Structure
+```text
 system-health-monitor/
 ├── health_check.sh
 └── README.md
+```
 
 ## How to Run
+```text
  1. Make the script executable:
    chmod +x health_check.sh
  2. Run the script:
    ./health_check.sh
+```
 
 ## Example Output
+```text
 ============================
    SYSTEM HEALTH MONITOR
 ============================
@@ -52,7 +57,7 @@ Disk Usage:
 
 Running Services:
 ...
-
+```
 Report generated:
 Fri Aug 7 11:05:18 CEST 2026
 
