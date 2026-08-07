@@ -1,3 +1,5 @@
+# Linux System Health Monitor
+
 ## Overview
 Developed a Bash-based Linux system monitoring tool that displays system information, including CPU usage, memory usage, disk usage, and running services while generating an automated health report.
 
@@ -57,10 +59,13 @@ Disk Usage:
 
 Running Services:
 ...
-```
+
 Report generated:
 Fri Aug 7 11:05:18 CEST 2026
 
 ============================
     CHECK COMPLETED
 ============================
+```
+
+
