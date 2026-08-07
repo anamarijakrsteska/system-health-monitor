@@ -21,8 +21,8 @@ Developed a Bash-based Linux system monitoring tool that displays system informa
 ## Project Structure
 ```text
 system-health-monitor/
-├── health_check.sh
-└── README.md
+├── README.md
+└── health_check.sh
 ```
 
 ## How to Run
